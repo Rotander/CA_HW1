@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/task255.dir/ball.cpp.o CMakeFiles/task255.dir/tetrahedron.cpp.o CMakeFiles/task255.dir/parallelepiped.cpp.o CMakeFiles/task255.dir/shape.cpp.o CMakeFiles/task255.dir/container.cpp.o CMakeFiles/task255.dir/main.cpp.o -o task255.exe -Wl,--out-implib,libtask255.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

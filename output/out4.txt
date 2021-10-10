@@ -1,0 +1,11 @@
+Filled container:
+Container contained 6 elements.
+0: It is Ball: r = 5. Volume = 104.72
+1: It is Parallelepiped: a = 1, b = 1, c = 1. Volume = 1
+2: It is Tetrahedron: a = 4. Volume = 7.54247
+3: It is Ball: r = 32. Volume = 4289.32
+4: It is Parallelepiped: a = 5, b = 4, c = 19. Volume = 380
+5: It is Tetrahedron: a = 10. Volume = 117.851
+Filtered container:
+Container contained 6 elements.
+3: It is Ball: r = 32. Volume = 4289.32

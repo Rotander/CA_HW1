@@ -1,0 +1,9 @@
+Filled container:
+Container contained 3 elements.
+0: It is Parallelepiped: a = 100, b = 2, c = 1. Volume = 200
+1: It is Parallelepiped: a = 1, b = 2, c = 3. Volume = 6
+2: It is Parallelepiped: a = 1, b = 13, c = 15. Volume = 195
+Filtered container:
+Container contained 3 elements.
+0: It is Parallelepiped: a = 100, b = 2, c = 1. Volume = 200
+2: It is Parallelepiped: a = 1, b = 13, c = 15. Volume = 195

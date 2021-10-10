@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/yamez/Desktop/acs/task255/container.h
+shape.h
+/cygdrive/c/Users/yamez/Desktop/acs/task255/shape.h
+
+/cygdrive/c/Users/yamez/Desktop/acs/task255/main.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+cstring
+-
+container.h
+/cygdrive/c/Users/yamez/Desktop/acs/task255/container.h
+
+/cygdrive/c/Users/yamez/Desktop/acs/task255/shape.h
+fstream
+-
+
